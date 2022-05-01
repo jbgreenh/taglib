@@ -1,0 +1,5 @@
+project: jbgreenh/taglib
+target: tagreader
+
+cmds:
+  - cmd: /tagreader @@ 
