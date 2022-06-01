@@ -1,4 +1,4 @@
-project: jbgreenh/taglib
+project: taglib
 target: tagreader
 
 cmds:
